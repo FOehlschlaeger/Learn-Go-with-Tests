@@ -2,7 +2,7 @@
 Learning Golang based on test-driven development
 
 ## Resources and free Tutorials
-- [Learn Go with Tests](https://quii.gitbook.io/learn-go-with-tests/)
+- [quii.gitbook.io: Learn Go with Tests](https://quii.gitbook.io/learn-go-with-tests/)
 - [Youtube - Techworld with Nana: Golang Tutorial for Beginners | Full Go Course](https://www.youtube.com/watch?v=yyUHQIec83I&t=5s)
 - [Youtube - FreeCodeCamp.org: Learn Go Programming - Golang Tutorial for Beginners](https://www.youtube.com/watch?v=YS4e4q9oBaU&t=2s)
 - [Youtube - FreeCodeCamp.org: Learn Go Programming by Building 11 Projects – Full Course](https://www.youtube.com/watch?v=jFfo23yIWac)
